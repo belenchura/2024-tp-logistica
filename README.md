@@ -1,14 +1,6 @@
-# Entrega 3 
 
-[![Autograding Tests](https://github.com/ddsutn-k3003/2024-tp-entrega-2-kenzogrosvald/actions/workflows/classroom.yml/badge.svg?branch=main)](https://github.com/ddsutn-k3003/2024-tp-entrega-3-kenzogrosvald/actions/workflows/classroom.yml)
 ## Módulo Logística 
-### Alumno
-- Grosvald, Kenzo
 
-### API REST
-```
-https://two024-tp-entrega-3-kenzogrosvald.onrender.com
-```
 Se implementan los siguientes endpoints:
 - **Agregar una nueva ruta**
 
