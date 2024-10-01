@@ -7,9 +7,9 @@ http://xmlns.jcp.org/xml/ns/persistence/persistence_2_2.xsd" version="2.2">
         <class>ar.edu.utn.dds.k3003.model.Traslado</class>
         <properties>
             <property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver"/>
-            <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://dpg-cplkskdds78s73em40f0-a.oregon-postgres.render.com/logistica_nlbh"/>
-            <property name="javax.persistence.jdbc.user" value="kenzogrosvald"/>
-            <property name="javax.persistence.jdbc.password" value="LekhGMF6pJxb6SbvHSCUxk5bZI9Kldij" />
+            <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://dpg-crtpfom8ii6s73ahklmg-a.oregon-postgres.render.com/bd_logistica"/>
+            <property name="javax.persistence.jdbc.user" value="user_bd_logistica"/>
+            <property name="javax.persistence.jdbc.password" value="6HIbwhHRnGCJDV1chhaoBtqEEcWoiQPI" />
             <property name="hibernate.flushMode" value="FLUSH_AUTO" />
             <property name="hibernate.hbm2ddl.auto" value="create" />
             <property name="hibernate.show_sql" value="true" />
